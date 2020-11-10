@@ -1,3 +1,7 @@
+# Check the live project for testing
+
+Hosting URL: https://slack-clone-45e96.web.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
